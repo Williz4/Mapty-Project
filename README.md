@@ -33,10 +33,10 @@ Mapty is a web app that allows you to be able to log your workouts. Currently Ma
 
 
 ## Known  Bugs
-Currently there are no known bugs in the Custom Countdown Timer
+Currently there are no known bugs in Mapty apart from when we lose the protoypal chain when working with OOP and localStorage.
 
 ## Technologies Used
-I used HTML for the sites structure and CSS for the styling and visual presentation and finally JS for the functionality.
+I used HTML for the sites structure and CSS for the styling and visual presentation and finally Modern JS concepts (ES6 classes, private fields among others).
 
 ## Support and Contact Details
 Incase of any question or feedback feel free to reach out to me on my personal email @wilsonmwangeka8@gmail.com
