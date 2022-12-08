@@ -1,6 +1,6 @@
 # Mapty
 
-#### Bookmark Keeper, 9th March 2022
+#### Mapty Project, 9th March 2022
 
 #### By Wilson Mwangeka
 
